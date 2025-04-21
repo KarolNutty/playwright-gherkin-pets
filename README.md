@@ -129,4 +129,3 @@ Este repositório oferece uma maneira prática de automatizar os testes da API d
 Se você tiver alguma dúvida ou sugestão, fique à vontade para abrir uma **issue** ou **pull request**. 😊
 ```
 
-Este conteúdo já está todo pronto para ser colado no seu arquivo `README.md`. Assim, quando você subir no GitHub, ele vai ser renderizado da forma correta, com todos os detalhes sobre o projeto, como rodar, testar e até como usar no Postman.
