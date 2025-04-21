@@ -127,5 +127,5 @@ Você pode testar manualmente a API de Pets com o Postman. Para isso, use os seg
 Este repositório oferece uma maneira prática de automatizar os testes da API de Pets utilizando Playwright e Gherkin, ajudando a garantir a qualidade do código da API. Não deixe de verificar o repositório da [API de Pets](https://github.com/KarolNutty/api-de-pets) para mais informações sobre a implementação da API!
 
 Se você tiver alguma dúvida ou sugestão, fique à vontade para abrir uma **issue** ou **pull request**. 😊
-```
+
 
